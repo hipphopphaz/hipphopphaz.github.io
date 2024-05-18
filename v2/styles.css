@@ -1,0 +1,53 @@
+body {
+    background-color: white;
+    margin: 0;
+    text-align: center;
+    font-family: "Monsterrat", sans-serif;
+}
+
+h1 {
+    color: black;
+    font-family: "Agrandir"; 
+}
+
+h2 {
+    color: black;
+    font-family: "Agrandir"; 
+}
+
+.top-box {
+    margin-bottom: 80px;
+
+}
+
+.bottom-box {
+    position: absolute;
+    bottom: 10%;
+    left: 40%;
+}
+
+.hrg-box {
+    position: absolute;
+    right: 30%;
+    width: 200px;
+}
+
+.hrg-text {
+    background-color: #8CC9EF;
+    width: 100px;
+    text-align: center;
+    margin-left: 50px;
+}
+
+.mozgasos-box {
+    position: absolute;
+    left: 30%;
+    width: 250px;
+}
+
+.mozgasos-text {
+    background-color: #DBBFDF;
+    width: 150px;
+    text-align: center;
+    margin-left: 50px;
+}
