@@ -13,6 +13,7 @@ h1 {
 h2 {
     color: black;
     font-family: "Agrandir"; 
+    text-align: center;
 }
 
 .top-box {
@@ -20,34 +21,69 @@ h2 {
 
 }
 
-.bottom-box {
-    position: absolute;
-    bottom: 10%;
-    left: 40%;
+.left {
+    float: left;
+    margin-left: 10%;
+    width: 40%;
+    margin-bottom: 50px;
+    background-color: aquamarine;
+}
+  
+.right {
+    float: right;
+    margin-right: 10%;
+    width: 40%;
+    margin-bottom: 50px;
+    background-color: aquamarine;
+}
+  
+  /* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
 }
 
-.hrg-box {
-    position: absolute;
-    right: 30%;
+.hrg {
     width: 200px;
+    text-align: left;
+    margin-left: 5%;
+    background-color: beige;
 }
 
-.hrg-text {
-    background-color: #8CC9EF;
-    width: 100px;
-    text-align: center;
-    margin-left: 50px;
-}
-
-.mozgasos-box {
-    position: absolute;
-    left: 30%;
+.mozgasos {
+    background-color: beige;
+    text-align: left;
     width: 250px;
+    margin-left: 30%;
 }
 
-.mozgasos-text {
-    background-color: #DBBFDF;
-    width: 150px;
-    text-align: center;
-    margin-left: 50px;
+.manualis {
+    background-color: beige;
+    width: 210px;
+    text-align: left;
+    margin-left: 30%;
+}
+
+.pszichologia {
+    background-color: beige;
+    width: 240px;
+    text-align: left;
+    margin-left: 10%;
+}
+
+.logopedia {
+    background-color: beige;
+    text-align: left;
+    width: 200px;
+    margin-left: 40%;
+}
+
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
