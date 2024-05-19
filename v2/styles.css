@@ -7,13 +7,14 @@ body {
     font-weight: 300;
     font-style: normal;
     font-size: larger;
+    padding-bottom: 0;
 }
 
 h1 {
     color: black;
     font-family: "Agrandir", sans-serif; 
     font-weight: 900;
-    font-size: xx-large;
+    font-size: 70px;
 }
 
 h2 {
@@ -65,44 +66,43 @@ h3 {
 .hrg {
     width: 250px;
     text-align: left;
-    margin-left: 1%;
+    margin-left: 0%;
 }
 
 .mozgasos {
     text-align: left;
     width: 250px;
-    margin-left: 30%;
+    margin-left: 40%;
 }
 
 .manualis {
     width: 210px;
     text-align: left;
-    margin-left: 10%;
+    margin-left: 20%;
 }
 
 .pszichologia {
     width: 450px;
     text-align: left;
-    margin-left: 10%;
+    margin-left: 0%;
 }
 
 .logopedia {
     text-align: left;
     width: 250px;
-    margin-left: 20%;
+    margin-left: 50%;
 }
 
 .iskola {
     text-align: left;
     width: 250px;
-    margin-left: 80%;
+    margin-left: 0%;
 }
 
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
 }
 
 .bottom {
