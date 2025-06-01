@@ -1,42 +1,66 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
 <url>
-  <loc>https://hipphopphaz.hu/</loc>
-  <lastmod>2024-06-06T20:09:48+00:00</lastmod>
-  <priority>1.00</priority>
+  <loc>http://hipphopphaz.hu/index.html</loc>
 </url>
 <url>
-  <loc>https://hipphopphaz.hu/index.html</loc>
-  <lastmod>2024-06-06T20:09:48+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://hipphopphaz.hu/aktualis.html</loc>
 </url>
 <url>
-  <loc>https://hipphopphaz.hu/terapiak.html</loc>
-  <lastmod>2024-06-06T20:09:48+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://hipphopphaz.hu/orarend.html</loc>
 </url>
 <url>
-  <loc>https://hipphopphaz.hu/arak.html</loc>
-  <lastmod>2024-06-06T20:09:48+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://hipphopphaz.hu/szolgaltatasok.html</loc>
 </url>
 <url>
-  <loc>https://hipphopphaz.hu/terapeutak.html</loc>
-  <lastmod>2024-06-06T20:09:48+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://hipphopphaz.hu/egyenitsmt.html</loc>
 </url>
 <url>
-  <loc>https://hipphopphaz.hu/kapcsolat.html</loc>
-  <lastmod>2024-06-06T20:09:48+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://hipphopphaz.hu/csoportostsmt.html</loc>
 </url>
-
-
+<url>
+  <loc>http://hipphopphaz.hu/hrg.html</loc>
+</url>
+<url>
+  <loc>http://hipphopphaz.hu/fdm.html</loc>
+</url>
+<url>
+  <loc>http://hipphopphaz.hu/vagus.html</loc>
+</url>
+<url>
+  <loc>http://hipphopphaz.hu/visceral.html</loc>
+</url>
+<url>
+  <loc>http://hipphopphaz.hu/alapozo.html</loc>
+</url>
+<url>
+  <loc>http://hipphopphaz.hu/logopedia.html</loc>
+</url>
+<url>
+  <loc>http://hipphopphaz.hu/nevelesi.html</loc>
+</url>
+<url>
+  <loc>http://hipphopphaz.hu/eq.html</loc>
+</url>
+<url>
+  <loc>http://hipphopphaz.hu/iskola.html</loc>
+</url>
+<url>
+  <loc>http://hipphopphaz.hu/gyerekjoga.html</loc>
+</url>
+<url>
+  <loc>http://hipphopphaz.hu/szakemberek.html</loc>
+</url>
+<url>
+  <loc>http://hipphopphaz.hu/arak.html</loc>
+</url>
+<url>
+  <loc>http://hipphopphaz.hu/kapcsolat.html</loc>
+</url>
+<url>
+  <loc>http://hipphopphaz.hu/tel:+36303611412</loc>
+</url>
+<url>
+  <loc>http://hipphopphaz.hu/</loc>
+</url>
 </urlset>
